@@ -1,0 +1,6 @@
+{
+  "name": "Javapaint",
+  "tagline": "",
+  "body": "### Java Paint\r\nThis program was an assignment for my Advanced Java course at CCSF in December of 2015. It is a paint program similar to MS Paint. It includes the ability to select different predefined shapes and brushes to paint a picture. You can also use a text string as your brush and select the color that is being applied.\r\n\r\n### Technologies Learned\r\nIn this project I studied multithreading, Java GUI programming, file IO and serialization. The major challenge with this project was learning how to save the painted canvas so that it could be reloaded again. The issue is that while String objects are easy to save, the other points were not automatically saved. To approach this I created an ArrayList object that stored the data points and color information.\r\n\r\n### Authors and Contributors\r\nJason Boyer\r\n\r\n<a href=\"http://www.jasonrboyer.com\">Author's website</a>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
